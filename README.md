@@ -78,13 +78,37 @@ java TollDeviceApp
 - Exporting reports to PDF/CSV
 
 ---
+## 📜 License
 
-## 🧑‍💻 Author
+This project is licensed under the **MIT License**.
 
-> **[George]** – [Add your GitHub link if you want.](https://github.com/GPap223)
+```
+MIT License
+
+Copyright (c) 2025 [George]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+```
 
 ---
 
-## 📄 License
+## 👨‍💻 Author
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+- **Name:** George
+- **GitHub:** [Double Tap Here](https://github.com/GPap223)  
+---
+
+## ⭐ Want to contribute?
+
+Pull requests are welcome! If you'd like to enhance functionality or UI, feel free to fork and submit improvements.
+
+---
+
+## 🔗 Useful Links
+
+- [How to compile Java](https://www.geeksforgeeks.org/how-to-compile-and-run-java-program/)
+- [Java Swing Documentation](https://docs.oracle.com/javase/tutorial/uiswing/)
+- [MIT License Explained](https://choosealicense.com/licenses/mit/)
+
